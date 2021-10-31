@@ -236,6 +236,9 @@ img { max-width: 100%; }
 
 .social a:hover, .social a:focus { outline: 0; background: #e75967; }
 
+.inner {
+    color: #fff !important;
+}
 
 /***** Media Queries *****/
 
